@@ -28,3 +28,4 @@ INSERT INTO payments VALUES
 (502,1002,'Card','Success'),
 (503,1003,'Cash','Pending'),
 (504,1004,'UPI','Success');
+
