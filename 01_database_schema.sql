@@ -38,3 +38,4 @@ CREATE TABLE payments (
     payment_status VARCHAR(20),
     FOREIGN KEY (order_id) REFERENCES orders(order_id)
 );
+
